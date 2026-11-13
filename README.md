@@ -11,7 +11,8 @@ I'm a student studying **Cybersecurity, Data Analytics and App Development**, wi
 - 🖥️ Building and maintaining self-hosted infrastructure.
 - 🌐 Interested in fullstack, networks and infrastructure automation
 - ⚙️ Working on building a new HTTP framework @ [Wireframe](https://github.com/zak799/wireframe)
---
+
+---
 
 ## 🚀 Projects
 
