@@ -20,6 +20,7 @@ I'm a student studying **Cybersecurity, Data Analytics and App Development**, wi
 A rapid async security-focused, lightweight HTTP framework made from scratch in Python. Built with features you need. 
 > [!NOTE]
 > Currently in development (Unstable).
+> 
 Development has been paused - next year will be locking in!
 
 ### Homelab
