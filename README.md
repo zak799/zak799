@@ -21,7 +21,7 @@ A rapid async security-focused, lightweight HTTP framework made from scratch in 
 > [!NOTE]
 > Currently in development (Unstable).
 > 
-Development has been paused - next year will be locking in!
+**Development has been paused - ***next year will be locking in!*****
 
 ### Homelab
 My self-hosted infrastructure environemnt running proxmox, hosting all my services, and a workspace for experimenting and learning more about IT and Networking.
