@@ -22,7 +22,7 @@ A rapid async security-focused, lightweight HTTP framework made from scratch in 
 > Currently in development (Unstable)
 
 > [!WARNING]
-> Project will be fully restarted from start of 2025 and will focus on HTTP/3.
+> Project will be fully restarted from start of 2027 and will focus on HTTP/3.
 
 **Development has been paused - ***next year will be locking in!*****
 
